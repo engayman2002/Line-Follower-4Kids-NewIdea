@@ -1,5 +1,5 @@
-# Line-Follower-4Kids-NewIdea
-This is Line Follower Project for Kids with a new idea that make it very fast in response
+# Line-Follower-NewIdea
+This is Line Follower Project with a new idea that make it very fast in response
 
 
 https://user-images.githubusercontent.com/102562894/217985252-f7f8be90-07ec-4b9e-a618-28307df6dc56.mp4
